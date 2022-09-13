@@ -9,3 +9,5 @@ To begin using please select an option under the option selection section in the
 The populate and display all buttons are there for testing purposes and can be used to generate several random forecasts and display them respectively.
 
 NOTE: The values you enter into the two text fields labelled City are case sensitive.
+
+![Application in action](usage1.png)
