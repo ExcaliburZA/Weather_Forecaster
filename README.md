@@ -10,4 +10,4 @@ The populate and display all buttons are there for testing purposes and can be u
 
 NOTE: The values you enter into the two text fields labelled City are case sensitive.
 
-![Application in action](usage1.png)
+![Application in action](usage1.PNG)
